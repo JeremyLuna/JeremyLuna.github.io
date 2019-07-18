@@ -1,6 +1,3 @@
-# Projects
-This is an overview of the things I'm working on.
-https://jeremyluna.github.io/Projects/
-
-# Flower Disease Identification
-This is the content
+# Overview
+This is an overview of the projects I'm working on.
+https://jeremyluna.github.io/Overview/

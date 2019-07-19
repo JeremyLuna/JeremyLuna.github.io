@@ -1,6 +1,6 @@
 # Overview
 This is an overview of the projects I'm working on.
-https://jeremyluna.github.io/Overview/
+https://jeremyluna.github.io
 
 reference:
 github repos

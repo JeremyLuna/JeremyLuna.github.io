@@ -3,5 +3,4 @@ https://jeremyluna.github.io
 
 references for maintaining:
 * github repos
-* GDrive Presentations- https://business.tutsplus.com/tutorials/embed-google-slides-presentations-online--cms-29503
-* C:\Users\Jeremy\Documents\personal_projects
+* Documents\personal_projects
